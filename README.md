@@ -1,6 +1,8 @@
 ## Summary ##
 Demonstrates the rate at which colored fonts can be produced on the fly.
 
+[Demo](http://commins.ca/impact-font-color-test/)
+
 ## Installation ##
 
 1. Clone this repo.
